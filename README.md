@@ -1,2 +1,2 @@
-# SWASTIK
-SWASTIK, E-Books, HACKIFY AYUSH, JEE Advanced, Physics, Chemistry, Math, PDF Downloads
+# AyushPustak
+ E-Books, HACKIFY AYUSH, JEE Advanced, Physics, Chemistry, Math, PDF Downloads
